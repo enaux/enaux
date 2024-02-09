@@ -39,10 +39,13 @@ I am inspired by the open-source community and would like to get stuck in asap!
 
 <br>
 <h2>Connect with me:</h2>
-<ul>
-  <a href="www.linkedin.com/in/erin-n-3b79752a1" target="_blank"><i class="fa-brands fa-linkedin fa-3x" style="color:white"></i></a>
-  <a href="https://github.com/enaux"><i class="fa-brands fa-github fa-3x"></i></a>
-</ul>
+  <a href="www.linkedin.com/in/erin-n-3b79752a1" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/tree/master/images/svg/linkedin.svg" alt="LinkedIn">
+  </a><br>
+  
+  <a href="https://github.com/enaux">
+    <img src="https://github.com/edent/SuperTinyIcons/tree/master/images/svg/github.svg" alt="GitHub">
+  </a>
 
 <!--
 ⚡ Fun fact: ...
