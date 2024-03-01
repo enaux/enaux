@@ -1,11 +1,16 @@
 <h1>Hi 😄</h1>
 
-I'm Erin, an <a href="https://github.com/enaux">aspiring software engineer</a>.
+I'm Erin, an <a href="https://github.com/enaux">aspiring software engineer</a> and web developer.
 
-🌱 I’m currently learning Python as part of a bootcamp delivered by HyperionDev. I'm also tackling responsive web development using materials offered by freeCodeCamp as self-directed learning.
+🌱 I’m currently learning Python as part of a software engineering bootcamp delivered by <a href="https://www.linkedin.com/school/hyperion-development-south-africa/">HyperionDev</a>.  
+I have also found freeCodeCamp to be an excellent resource for self-taught web developers and I visit frequently!
 
 💞️ I’m looking to collaborate on open-source projects once I have developed my knowledge and experience sufficiently to be a positive contributor.
 I am inspired by the open-source community and would like to get stuck in asap!
+
+<br>
+
+<h1>Featured ✨</h1>
 
 <h2>Software Development Projects:</h2>
 <h3>Python:</h3>
@@ -13,39 +18,39 @@ I am inspired by the open-source community and would like to get stuck in asap!
 <div>
 
   <a href="https://github.com/enaux/half-diamond-pattern-creator" target="_blank">Half-Diamond Pattern Creator</a>
+  : Python program which generates half-diamond patterns according to user instructions.
   
   <a href="https://github.com/enaux/financial-calculator" target="_blank">Financial Calculator</a>
+  : Python program which allows users to perform multiple financial calculations.
   
 </div>
 
 <h2>Web Development Projects:</h2>
 <div>
   
-  <a href="https://github.com/enaux/anaesthesia-focus-website" target="_blank">Anaesthesia Focus:</a> educational resource website for doctors studying anaesthesiology
+  <a href="https://github.com/enaux/anaesthesia-focus-website" target="_blank">Anaesthesia Focus</a>
+  : Educational resource website for doctors studying anaesthesiology
   
   <a href="https://github.com/enaux/technical-documentation-page-practice-project" target="_blank">Technical Documentation Page</a>
-  
-  <a href="https://github.com/enaux/web-survey-form" target="_blank">Web Survey Form</a>
-  
-  <a href="https://github.com/enaux/accessibility-quiz-page" target="_blank">Accessibility Quiz Page</a>
-  
-  <a href="https://github.com/enaux/brenda-blethyn-tribute" target="_blank">Tribute Page</a></li>
+  : Introductory technical documentation page developed to practice skills in HTML and CSS.
+
   
 </div>
 
-<!--
 <h2>Certifications:</h2>
--->
+<div>
+  
+  <a href="https://www.freecodecamp.org/certification/erin-naughton/responsive-web-design">freeCodeCamp Responsive Web Development</a>
+
+  <a href="https://codeinstitute.net/ie/5-day-coding-challenge/">Code Institute 5 Day Coding Challenge</a>
+  
+</div>
 
 <br>
 <h2>Connect with me:</h2>
-  <a href="www.linkedin.com/in/erin-n-3b79752a1" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/tree/master/images/svg/linkedin.svg" alt="LinkedIn">
-  </a><br>
+  <a href="www.linkedin.com/in/erin-n-3b79752a1" target="_blank">LinkedIn</a>
   
-  <a href="https://github.com/enaux">
-    <img src="https://github.com/edent/SuperTinyIcons/tree/master/images/svg/github.svg" alt="GitHub">
-  </a>
+  <a href="https://github.com/enaux">GitHub</a>
 
 <!--
 ⚡ Fun fact: ...
