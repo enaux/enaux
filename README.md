@@ -2,7 +2,7 @@
 
 I'm Erin, an <a href="https://github.com/enaux">aspiring software engineer</a> and web developer.
 
-🌱 I’m currently learning Python as part of a software engineering bootcamp delivered by <a href="https://www.linkedin.com/school/hyperion-development-south-africa/">HyperionDev</a>.  
+🌱 I have recently completed a software engineering bootcamp delivered by <a href="https://www.linkedin.com/school/hyperion-development-south-africa/">HyperionDev</a> developing programming skills and knowledge in Python. Some of the projects I have completed within the bootcamp can be viewed on my GitHub profile.
 I have also found freeCodeCamp to be an excellent resource for self-taught web developers and I visit frequently!
 
 💞️ I’m looking to collaborate on open-source projects once I have developed my knowledge and experience sufficiently to be a positive contributor.
