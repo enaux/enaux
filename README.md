@@ -46,11 +46,6 @@ I am inspired by the open-source community and would like to get stuck in asap!
   
 </div>
 
-<br>
-<h2>Connect with me:</h2>
-  <a href="www.linkedin.com/in/erin-n-3b79752a1" target="_blank">LinkedIn</a>
-  
-  <a href="https://github.com/enaux">GitHub</a>
 
 <!--
 ⚡ Fun fact: ...
