@@ -22,6 +22,12 @@ I am inspired by the open-source community and would like to get stuck in asap!
   
   <a href="https://github.com/enaux/financial-calculator" target="_blank">Financial Calculator</a>
   : Python program which allows users to perform multiple financial calculations.
+
+  <a href="https://github.com/enaux/task-manager" target="_blank">Task Manager</a>
+  : Python program which manages tasks for multiple team members simultaneously.
+
+  <a href="https://github.com/enaux/holiday-planner" target="_blank">Holiday Planner</a>
+  : Python program which calculates the total cost of a user-selected holiday.
   
 </div>
 
