@@ -8,7 +8,6 @@ I have also found freeCodeCamp to be an excellent resource for self-taught web d
 💞️ I’m looking to collaborate on open-source projects once I have developed my knowledge and experience sufficiently to be a positive contributor.
 I am inspired by the open-source community and would like to get stuck in asap!
 
-<br>
 
 <h1>Featured ✨</h1>
 
