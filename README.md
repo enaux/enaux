@@ -1,12 +1,6 @@
 <h1>About Me</h1>
 
-🌱 Currently completing postgraduate study in software development.<br>
-
-Some of my most recent projects can be viewed on my GitHub profile.
-
-💞️ I’m looking to collaborate on open-source projects once I have developed my knowledge and experience sufficiently to be a positive contributor.
-I am inspired by the open-source community and would like to get stuck in asap!
-
+🌱 Currently completing postgraduate study in software development and cloud computing.<br>
 
 <h1>Featured ✨</h1>
 
